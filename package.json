@@ -1,25 +1,16 @@
 {
   "name": "forumwarga-db",
-  "version": "1.0.0",
-  "description": "forum warga database api",
-  "main": "index.js",
+  "version": "0.0.0",
+  "private": true,
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "start": "node ./bin/www"
   },
-  "repository": {
-    "type": "git",
-    "url": "git+https://github.com/junifar/forumwarga-db.git"
-  },
-  "keywords": [
-    "forumwarga"
-  ],
-  "author": "junifar hidayat",
-  "license": "ISC",
-  "bugs": {
-    "url": "https://github.com/junifar/forumwarga-db/issues"
-  },
-  "homepage": "https://github.com/junifar/forumwarga-db#readme",
   "dependencies": {
-    "express": "^4.19.2"
+    "cookie-parser": "~1.4.4",
+    "debug": "~2.6.9",
+    "express": "~4.16.1",
+    "http-errors": "~1.6.3",
+    "jade": "~1.11.0",
+    "morgan": "~1.9.1"
   }
 }

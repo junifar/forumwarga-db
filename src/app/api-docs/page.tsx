@@ -587,6 +587,9 @@ function GreenBackground() {
 }
 
 function Header() {
+    type CustomStyle = {
+        [key: string]: string | number;
+    }
     return (
         <header className="contents lg:pointer-events-none lg:fixed lg:inset-0 lg:z-40 lg:flex">
             <div className="contents lg:pointer-events-auto lg:block lg:w-72 lg:overflow-y-auto lg:border-r lg:border-zinc-900/10 lg:px-6 lg:pb-8 lg:pt-4 xl:w-80 lg:dark:border-white/10">
@@ -597,7 +600,7 @@ function Header() {
                         "--bg-opacity-dark": 0.2,
                         backgroundColor: 'rgba(255, 255, 255, 0.5)', // Adjust the opacity value as needed
                         backdropFilter: 'blur(4px)' // Adjust the blur value as needed
-                    }}>
+                    } as CustomStyle}>
                     <div className="absolute inset-x-0 top-full h-px transition bg-zinc-900/7.5 dark:bg-white/7.5"></div>
                     {SearchBar()}
                     {MobileSearchBar()}
@@ -617,9 +620,9 @@ function LeftSideBar() {
     return (
         <nav className="hidden lg:mt-10 lg:block">
             <ul role="list">
-                {liTop("API","/")}
-                {liTop("Documentation","#")}
-                {liTop("Support","#")}
+                {liTop("API", "/")}
+                {liTop("Documentation", "#")}
+                {liTop("Support", "#")}
                 <li className="relative mt-6 md:mt-0">
                     <h2 className="text-xs font-semibold text-zinc-900 dark:text-white">Guides</h2>
                     <div className="relative mt-3 pl-2">

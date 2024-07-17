@@ -135,11 +135,11 @@ function ContentResources() {
                                         <path d="M.5 56V.5H72" fill="none"></path>
                                     </pattern>
                                 </defs>
-                                <rect width="100%" height="100%" stroke-width="0"
+                                <rect width="100%" height="100%" strokeWidth="0"
                                     fill="url(#:R56hdsqla:)"></rect><svg x="50%" y="16"
                                         className="overflow-visible">
-                                    <rect stroke-width="0" width="73" height="57" x="0" y="56"></rect>
-                                    <rect stroke-width="0" width="73" height="57" x="72" y="168"></rect>
+                                    <rect strokeWidth="0" width="73" height="57" x="0" y="56"></rect>
+                                    <rect strokeWidth="0" width="73" height="57" x="72" y="168"></rect>
                                 </svg>
                             </svg></div>
                         <div className="absolute inset-0 rounded-2xl bg-gradient-to-r from-[#D7EDEA] to-[#F4FBDF] opacity-0 transition duration-300 group-hover:opacity-100 dark:from-[#202D2E] dark:to-[#303428]"
@@ -161,11 +161,11 @@ function ContentResources() {
                                         <path d="M.5 56V.5H72" fill="none"></path>
                                     </pattern>
                                 </defs>
-                                <rect width="100%" height="100%" stroke-width="0"
+                                <rect width="100%" height="100%" strokeWidth="0"
                                     fill="url(#:R1d6hdsqla:)"></rect><svg x="50%" y="16"
                                         className="overflow-visible">
-                                    <rect stroke-width="0" width="73" height="57" x="0" y="56"></rect>
-                                    <rect stroke-width="0" width="73" height="57" x="72" y="168"></rect>
+                                    <rect strokeWidth="0" width="73" height="57" x="0" y="56"></rect>
+                                    <rect strokeWidth="0" width="73" height="57" x="72" y="168"></rect>
                                 </svg>
                             </svg></div>
                     </div>
@@ -177,7 +177,7 @@ function ContentResources() {
                             className="flex h-7 w-7 items-center justify-center rounded-full bg-zinc-900/5 ring-1 ring-zinc-900/25 backdrop-blur-[2px] transition duration-300 group-hover:bg-white/50 group-hover:ring-zinc-900/25 dark:bg-white/7.5 dark:ring-white/15 dark:group-hover:bg-emerald-300/10 dark:group-hover:ring-emerald-400">
                             <svg viewBox="0 0 20 20" aria-hidden="true"
                                 className="h-5 w-5 fill-zinc-700/10 stroke-zinc-700 transition-colors duration-300 group-hover:stroke-zinc-900 dark:fill-white/10 dark:stroke-zinc-400 dark:group-hover:fill-emerald-300/10 dark:group-hover:stroke-emerald-400">
-                                <path stroke-width="0" fillRule="evenodd" clipRule="evenodd"
+                                <path strokeWidth="0" fillRule="evenodd" clipRule="evenodd"
                                     d="M10 .5a9.5 9.5 0 0 1 5.598 17.177C14.466 15.177 12.383 13.5 10 13.5s-4.466 1.677-5.598 4.177A9.5 9.5 0 0 1 10 .5ZM12.5 8a2.5 2.5 0 1 0-5 0 2.5 2.5 0 0 0 5 0Z">
                                 </path>
                                 <path fill="none" strokeLinecap="round" strokeLinejoin="round"
@@ -209,12 +209,12 @@ function ContentResources() {
                                         <path d="M.5 56V.5H72" fill="none"></path>
                                     </pattern>
                                 </defs>
-                                <rect width="100%" height="100%" stroke-width="0"
+                                <rect width="100%" height="100%" strokeWidth="0"
                                     fill="url(#:R5ahdsqla:)"></rect><svg x="50%" y="-6"
                                         className="overflow-visible">
-                                    <rect stroke-width="0" width="73" height="57" x="-72" y="112">
+                                    <rect strokeWidth="0" width="73" height="57" x="-72" y="112">
                                     </rect>
-                                    <rect stroke-width="0" width="73" height="57" x="72" y="168"></rect>
+                                    <rect strokeWidth="0" width="73" height="57" x="72" y="168"></rect>
                                 </svg>
                             </svg></div>
                         <div className="absolute inset-0 rounded-2xl bg-gradient-to-r from-[#D7EDEA] to-[#F4FBDF] opacity-0 transition duration-300 group-hover:opacity-100 dark:from-[#202D2E] dark:to-[#303428]"
@@ -236,12 +236,12 @@ function ContentResources() {
                                         <path d="M.5 56V.5H72" fill="none"></path>
                                     </pattern>
                                 </defs>
-                                <rect width="100%" height="100%" stroke-width="0"
+                                <rect width="100%" height="100%" strokeWidth="0"
                                     fill="url(#:R1dahdsqla:)"></rect><svg x="50%" y="-6"
                                         className="overflow-visible">
-                                    <rect stroke-width="0" width="73" height="57" x="-72" y="112">
+                                    <rect strokeWidth="0" width="73" height="57" x="-72" y="112">
                                     </rect>
-                                    <rect stroke-width="0" width="73" height="57" x="72" y="168"></rect>
+                                    <rect strokeWidth="0" width="73" height="57" x="72" y="168"></rect>
                                 </svg>
                             </svg></div>
                     </div>
@@ -282,11 +282,11 @@ function ContentResources() {
                                         <path d="M.5 56V.5H72" fill="none"></path>
                                     </pattern>
                                 </defs>
-                                <rect width="100%" height="100%" stroke-width="0"
+                                <rect width="100%" height="100%" strokeWidth="0"
                                     fill="url(#:R5ehdsqla:)"></rect><svg x="50%" y="32"
                                         className="overflow-visible">
-                                    <rect stroke-width="0" width="73" height="57" x="0" y="112"></rect>
-                                    <rect stroke-width="0" width="73" height="57" x="72" y="224"></rect>
+                                    <rect strokeWidth="0" width="73" height="57" x="0" y="112"></rect>
+                                    <rect strokeWidth="0" width="73" height="57" x="72" y="224"></rect>
                                 </svg>
                             </svg></div>
                         <div className="absolute inset-0 rounded-2xl bg-gradient-to-r from-[#D7EDEA] to-[#F4FBDF] opacity-0 transition duration-300 group-hover:opacity-100 dark:from-[#202D2E] dark:to-[#303428]"
@@ -308,11 +308,11 @@ function ContentResources() {
                                         <path d="M.5 56V.5H72" fill="none"></path>
                                     </pattern>
                                 </defs>
-                                <rect width="100%" height="100%" stroke-width="0"
+                                <rect width="100%" height="100%" strokeWidth="0"
                                     fill="url(#:R1dehdsqla:)"></rect><svg x="50%" y="32"
                                         className="overflow-visible">
-                                    <rect stroke-width="0" width="73" height="57" x="0" y="112"></rect>
-                                    <rect stroke-width="0" width="73" height="57" x="72" y="224"></rect>
+                                    <rect strokeWidth="0" width="73" height="57" x="0" y="112"></rect>
+                                    <rect strokeWidth="0" width="73" height="57" x="72" y="224"></rect>
                                 </svg>
                             </svg></div>
                     </div>
@@ -353,10 +353,10 @@ function ContentResources() {
                                         <path d="M.5 56V.5H72" fill="none"></path>
                                     </pattern>
                                 </defs>
-                                <rect width="100%" height="100%" stroke-width="0"
+                                <rect width="100%" height="100%" strokeWidth="0"
                                     fill="url(#:R5ihdsqla:)"></rect><svg x="50%" y="22"
                                         className="overflow-visible">
-                                    <rect stroke-width="0" width="73" height="57" x="0" y="56"></rect>
+                                    <rect strokeWidth="0" width="73" height="57" x="0" y="56"></rect>
                                 </svg>
                             </svg></div>
                         <div className="absolute inset-0 rounded-2xl bg-gradient-to-r from-[#D7EDEA] to-[#F4FBDF] opacity-0 transition duration-300 group-hover:opacity-100 dark:from-[#202D2E] dark:to-[#303428]"
@@ -378,10 +378,10 @@ function ContentResources() {
                                         <path d="M.5 56V.5H72" fill="none"></path>
                                     </pattern>
                                 </defs>
-                                <rect width="100%" height="100%" stroke-width="0"
+                                <rect width="100%" height="100%" strokeWidth="0"
                                     fill="url(#:R1dihdsqla:)"></rect><svg x="50%" y="22"
                                         className="overflow-visible">
-                                    <rect stroke-width="0" width="73" height="57" x="0" y="56"></rect>
+                                    <rect strokeWidth="0" width="73" height="57" x="0" y="56"></rect>
                                 </svg>
                             </svg></div>
                     </div>
@@ -419,8 +419,7 @@ function ContentResources() {
 }
 
 function ContentGuides() {
-    return <>
-        <div className="my-16 xl:max-w-none">
+    return <div className="my-16 xl:max-w-none">
             <h2 className="scroll-mt-24" id="guides"><a
                 className="group text-inherit no-underline hover:text-inherit" href="#guides">Guides</a>
             </h2>
@@ -487,8 +486,7 @@ function ContentGuides() {
                     </p>
                 </div>
             </div>
-        </div>
-    </>;
+        </div>;
 }
 
 function ContentGettingStarted() {
@@ -568,12 +566,12 @@ function GreenBackground() {
                             <path d="M.5 56V.5H72" fill="none"></path>
                         </pattern>
                     </defs>
-                    <rect width="100%" height="100%" stroke-width="0" fill="url(#:S1:)"></rect><svg
+                    <rect width="100%" height="100%" strokeWidth="0" fill="url(#:S1:)"></rect><svg
                         x="-12" y="4" className="overflow-visible">
-                        <rect stroke-width="0" width="73" height="57" x="288" y="168"></rect>
-                        <rect stroke-width="0" width="73" height="57" x="144" y="56"></rect>
-                        <rect stroke-width="0" width="73" height="57" x="504" y="168"></rect>
-                        <rect stroke-width="0" width="73" height="57" x="720" y="336"></rect>
+                        <rect strokeWidth="0" width="73" height="57" x="288" y="168"></rect>
+                        <rect strokeWidth="0" width="73" height="57" x="144" y="56"></rect>
+                        <rect strokeWidth="0" width="73" height="57" x="504" y="168"></rect>
+                        <rect strokeWidth="0" width="73" height="57" x="720" y="336"></rect>
                     </svg>
                 </svg></div><svg viewBox="0 0 1113 440" aria-hidden="true"
                     className="absolute left-1/2 top-0 ml-[-19rem] w-[69.5625rem] fill-white blur-[26px] dark:hidden">

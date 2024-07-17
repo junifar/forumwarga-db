@@ -419,8 +419,7 @@ function ContentResources() {
 }
 
 function ContentGuides() {
-    return
-        <div className="my-16 xl:max-w-none">
+    return <div className="my-16 xl:max-w-none">
             <h2 className="scroll-mt-24" id="guides"><a
                 className="group text-inherit no-underline hover:text-inherit" href="#guides">Guides</a>
             </h2>

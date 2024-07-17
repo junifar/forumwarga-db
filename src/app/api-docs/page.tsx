@@ -28,7 +28,7 @@ function Footer() {
                         className="inline-flex gap-0.5 justify-center overflow-hidden text-sm font-medium transition rounded-full bg-zinc-100 py-1 px-3 text-zinc-900 hover:bg-zinc-200 dark:bg-zinc-800/40 dark:text-zinc-400 dark:ring-1 dark:ring-inset dark:ring-zinc-800 dark:hover:bg-zinc-800 dark:hover:text-zinc-300"
                         aria-label="Next: Quickstart" href="/quickstart">Next<svg viewBox="0 0 20 20" fill="none"
                             aria-hidden="true" className="mt-0.5 h-5 w-5 -mr-1">
-                            <path stroke="currentColor" stroke-linecap="round" stroke-linejoin="round"
+                            <path stroke="currentColor" strokeLinecap="round" strokeLinejoin="round"
                                 d="m11.5 6.5 3 3.5m0 0-3 3.5m3-3.5h-9"></path>
                         </svg>
                     </Link>
@@ -180,10 +180,10 @@ function ContentResources() {
                                 <path stroke-width="0" fill-rule="evenodd" clip-rule="evenodd"
                                     d="M10 .5a9.5 9.5 0 0 1 5.598 17.177C14.466 15.177 12.383 13.5 10 13.5s-4.466 1.677-5.598 4.177A9.5 9.5 0 0 1 10 .5ZM12.5 8a2.5 2.5 0 1 0-5 0 2.5 2.5 0 0 0 5 0Z">
                                 </path>
-                                <path fill="none" stroke-linecap="round" stroke-linejoin="round"
+                                <path fill="none" strokeLinecap="round" strokeLinejoin="round"
                                     d="M10 .5a9.5 9.5 0 0 1 5.598 17.177A9.458 9.458 0 0 1 10 19.5a9.458 9.458 0 0 1-5.598-1.823A9.5 9.5 0 0 1 10 .5Z">
                                 </path>
-                                <path fill="none" stroke-linecap="round" stroke-linejoin="round"
+                                <path fill="none" strokeLinecap="round" strokeLinejoin="round"
                                     d="M4.402 17.677C5.534 15.177 7.617 13.5 10 13.5s4.466 1.677 5.598 4.177M10 5.5a2.5 2.5 0 1 1 0 5 2.5 2.5 0 0 1 0-5Z">
                                 </path>
                             </svg></div>
@@ -253,10 +253,10 @@ function ContentResources() {
                             className="flex h-7 w-7 items-center justify-center rounded-full bg-zinc-900/5 ring-1 ring-zinc-900/25 backdrop-blur-[2px] transition duration-300 group-hover:bg-white/50 group-hover:ring-zinc-900/25 dark:bg-white/7.5 dark:ring-white/15 dark:group-hover:bg-emerald-300/10 dark:group-hover:ring-emerald-400">
                             <svg viewBox="0 0 20 20" aria-hidden="true"
                                 className="h-5 w-5 fill-zinc-700/10 stroke-zinc-700 transition-colors duration-300 group-hover:stroke-zinc-900 dark:fill-white/10 dark:stroke-zinc-400 dark:group-hover:fill-emerald-300/10 dark:group-hover:stroke-emerald-400">
-                                <path stroke-linecap="round" stroke-linejoin="round"
+                                <path strokeLinecap="round" strokeLinejoin="round"
                                     d="M10 16.5c4.142 0 7.5-3.134 7.5-7s-3.358-7-7.5-7c-4.142 0-7.5 3.134-7.5 7 0 1.941.846 3.698 2.214 4.966L3.5 17.5c2.231 0 3.633-.553 4.513-1.248A8.014 8.014 0 0 0 10 16.5Z">
                                 </path>
-                                <path fill="none" stroke-linecap="round" stroke-linejoin="round"
+                                <path fill="none" strokeLinecap="round" strokeLinejoin="round"
                                     d="M7.5 8.5h5M8.5 11.5h3"></path>
                             </svg></div>
                         <h3 className="mt-4 text-sm font-semibold leading-7 text-zinc-900 dark:text-white">
@@ -324,10 +324,10 @@ function ContentResources() {
                             className="flex h-7 w-7 items-center justify-center rounded-full bg-zinc-900/5 ring-1 ring-zinc-900/25 backdrop-blur-[2px] transition duration-300 group-hover:bg-white/50 group-hover:ring-zinc-900/25 dark:bg-white/7.5 dark:ring-white/15 dark:group-hover:bg-emerald-300/10 dark:group-hover:ring-emerald-400">
                             <svg viewBox="0 0 20 20" aria-hidden="true"
                                 className="h-5 w-5 fill-zinc-700/10 stroke-zinc-700 transition-colors duration-300 group-hover:stroke-zinc-900 dark:fill-white/10 dark:stroke-zinc-400 dark:group-hover:fill-emerald-300/10 dark:group-hover:stroke-emerald-400">
-                                <path fill="none" stroke-linecap="round" stroke-linejoin="round"
+                                <path fill="none" strokeLinecap="round" strokeLinejoin="round"
                                     d="M2.5 5.5a2 2 0 0 1 2-2h11a2 2 0 0 1 2 2v8a3 3 0 0 1-3 3h-9a3 3 0 0 1-3-3v-8Z">
                                 </path>
-                                <path stroke-linecap="round" stroke-linejoin="round"
+                                <path strokeLinecap="round" strokeLinejoin="round"
                                     d="M10 10 4.526 5.256c-.7-.607-.271-1.756.655-1.756h9.638c.926 0 1.355 1.15.655 1.756L10 10Z">
                                 </path>
                             </svg></div>
@@ -393,15 +393,15 @@ function ContentResources() {
                             className="flex h-7 w-7 items-center justify-center rounded-full bg-zinc-900/5 ring-1 ring-zinc-900/25 backdrop-blur-[2px] transition duration-300 group-hover:bg-white/50 group-hover:ring-zinc-900/25 dark:bg-white/7.5 dark:ring-white/15 dark:group-hover:bg-emerald-300/10 dark:group-hover:ring-emerald-400">
                             <svg viewBox="0 0 20 20" aria-hidden="true"
                                 className="h-5 w-5 fill-zinc-700/10 stroke-zinc-700 transition-colors duration-300 group-hover:stroke-zinc-900 dark:fill-white/10 dark:stroke-zinc-400 dark:group-hover:fill-emerald-300/10 dark:group-hover:stroke-emerald-400">
-                                <path fill="none" stroke-linecap="round" stroke-linejoin="round"
+                                <path fill="none" strokeLinecap="round" strokeLinejoin="round"
                                     d="M10.046 16H1.955a.458.458 0 0 1-.455-.459C1.5 13.056 3.515 11 6 11h.5">
                                 </path>
-                                <path stroke-linecap="round" stroke-linejoin="round"
+                                <path strokeLinecap="round" strokeLinejoin="round"
                                     d="M7.5 15.454C7.5 12.442 9.988 10 13 10s5.5 2.442 5.5 5.454a.545.545 0 0 1-.546.546H8.045a.545.545 0 0 1-.545-.546Z">
                                 </path>
-                                <path fill="none" stroke-linecap="round" stroke-linejoin="round"
+                                <path fill="none" strokeLinecap="round" strokeLinejoin="round"
                                     d="M6.5 4a2 2 0 1 1 0 4 2 2 0 0 1 0-4Z"></path>
-                                <path stroke-linecap="round" stroke-linejoin="round"
+                                <path strokeLinecap="round" strokeLinejoin="round"
                                     d="M13 2a2.5 2.5 0 1 1 0 5 2.5 2.5 0 0 1 0-5Z"></path>
                             </svg></div>
                         <h3 className="mt-4 text-sm font-semibold leading-7 text-zinc-900 dark:text-white">
@@ -434,8 +434,8 @@ function ContentGuides() {
                         <Link className="inline-flex gap-0.5 justify-center overflow-hidden text-sm font-medium transition text-emerald-500 hover:text-emerald-600 dark:text-emerald-400 dark:hover:text-emerald-500"
                             href="/authentication">Read more<svg viewBox="0 0 20 20" fill="none"
                                 aria-hidden="true" className="mt-0.5 h-5 w-5 relative top-px -mr-1">
-                                <path stroke="currentColor" stroke-linecap="round"
-                                    stroke-linejoin="round" d="m11.5 6.5 3 3.5m0 0-3 3.5m3-3.5h-9">
+                                <path stroke="currentColor" strokeLinecap="round"
+                                    strokeLinejoin="round" d="m11.5 6.5 3 3.5m0 0-3 3.5m3-3.5h-9">
                                 </path>
                             </svg>
                         </Link>
@@ -449,8 +449,8 @@ function ContentGuides() {
                         <Link className="inline-flex gap-0.5 justify-center overflow-hidden text-sm font-medium transition text-emerald-500 hover:text-emerald-600 dark:text-emerald-400 dark:hover:text-emerald-500"
                             href="/pagination">Read more<svg viewBox="0 0 20 20" fill="none"
                                 aria-hidden="true" className="mt-0.5 h-5 w-5 relative top-px -mr-1">
-                                <path stroke="currentColor" stroke-linecap="round"
-                                    stroke-linejoin="round" d="m11.5 6.5 3 3.5m0 0-3 3.5m3-3.5h-9">
+                                <path stroke="currentColor" strokeLinecap="round"
+                                    strokeLinejoin="round" d="m11.5 6.5 3 3.5m0 0-3 3.5m3-3.5h-9">
                                 </path>
                             </svg>
                         </Link>
@@ -464,8 +464,8 @@ function ContentGuides() {
                         <Link className="inline-flex gap-0.5 justify-center overflow-hidden text-sm font-medium transition text-emerald-500 hover:text-emerald-600 dark:text-emerald-400 dark:hover:text-emerald-500"
                             href="/errors">Read more<svg viewBox="0 0 20 20" fill="none"
                                 aria-hidden="true" className="mt-0.5 h-5 w-5 relative top-px -mr-1">
-                                <path stroke="currentColor" stroke-linecap="round"
-                                    stroke-linejoin="round" d="m11.5 6.5 3 3.5m0 0-3 3.5m3-3.5h-9">
+                                <path stroke="currentColor" strokeLinecap="round"
+                                    strokeLinejoin="round" d="m11.5 6.5 3 3.5m0 0-3 3.5m3-3.5h-9">
                                 </path>
                             </svg>
                         </Link>
@@ -479,8 +479,8 @@ function ContentGuides() {
                         <Link className="inline-flex gap-0.5 justify-center overflow-hidden text-sm font-medium transition text-emerald-500 hover:text-emerald-600 dark:text-emerald-400 dark:hover:text-emerald-500"
                             href="/webhooks">Read more<svg viewBox="0 0 20 20" fill="none"
                                 aria-hidden="true" className="mt-0.5 h-5 w-5 relative top-px -mr-1">
-                                <path stroke="currentColor" stroke-linecap="round"
-                                    stroke-linejoin="round" d="m11.5 6.5 3 3.5m0 0-3 3.5m3-3.5h-9">
+                                <path stroke="currentColor" strokeLinecap="round"
+                                    strokeLinejoin="round" d="m11.5 6.5 3 3.5m0 0-3 3.5m3-3.5h-9">
                                 </path>
                             </svg>
                         </Link>
@@ -541,7 +541,7 @@ function ContentApiDocumentation() {
                 href="/quickstart">
                 Quickstart
                 <svg viewBox="0 0 20 20" fill="none" aria-hidden="true" className="mt-0.5 h-5 w-5 -mr-1">
-                    <path stroke="currentColor" stroke-linecap="round" stroke-linejoin="round"
+                    <path stroke="currentColor" strokeLinecap="round" strokeLinejoin="round"
                         d="m11.5 6.5 3 3.5m0 0-3 3.5m3-3.5h-9"></path>
                 </svg>
             </Link>
@@ -683,7 +683,7 @@ function LeftSideBar() {
 function MobileSearchBar() {
     return <div className="flex items-center gap-5 lg:hidden">
         <button type="button" className="flex h-6 w-6 items-center justify-center rounded-md transition hover:bg-zinc-900/5 dark:hover:bg-white/5" aria-label="Toggle navigation">
-            <svg viewBox="0 0 10 9" fill="none" stroke-linecap="round" aria-hidden="true" className="w-2.5 stroke-zinc-900 dark:stroke-white">
+            <svg viewBox="0 0 10 9" fill="none" strokeLinecap="round" aria-hidden="true" className="w-2.5 stroke-zinc-900 dark:stroke-white">
                 <path d="M.5 1h9M.5 8h9M.5 4.5h9"></path>
             </svg>
         </button>
@@ -702,7 +702,7 @@ function SearchBar() {
     return <div className="hidden lg:block lg:max-w-md lg:flex-auto">
         <button type="button" className="hidden h-8 w-full items-center gap-2 rounded-full bg-white pl-2 pr-3 text-sm text-zinc-500 ring-1 ring-zinc-900/10 transition hover:ring-zinc-900/20 ui-not-focus-visible:outline-none lg:flex dark:bg-white/5 dark:text-zinc-400 dark:ring-inset dark:ring-white/10 dark:hover:ring-white/20">
             <svg viewBox="0 0 20 20" fill="none" aria-hidden="true" className="h-5 w-5 stroke-current">
-                <path stroke-linecap="round" stroke-linejoin="round"
+                <path strokeLinecap="round" strokeLinejoin="round"
                     d="M12.01 12a4.25 4.25 0 1 0-6.02-6 4.25 4.25 0 0 0 6.02 6Zm0 0 3.24 3.25"></path>
             </svg>
             Find something...
@@ -735,7 +735,7 @@ function DarkLightButton() {
                 className="flex h-6 w-6 items-center justify-center rounded-md transition hover:bg-zinc-900/5 ui-not-focus-visible:outline-none lg:hidden dark:hover:bg-white/5"
                 aria-label="Find something..."><svg viewBox="0 0 20 20" fill="none"
                     aria-hidden="true" className="h-5 w-5 stroke-zinc-900 dark:stroke-white">
-                    <path stroke-linecap="round" stroke-linejoin="round"
+                    <path strokeLinecap="round" strokeLinejoin="round"
                         d="M12.01 12a4.25 4.25 0 1 0-6.02-6 4.25 4.25 0 0 0 6.02 6Zm0 0 3.24 3.25">
                     </path>
                 </svg></button></div><button type="button"
@@ -743,7 +743,7 @@ function DarkLightButton() {
                     aria-label="Switch to dark theme"><svg viewBox="0 0 20 20" fill="none"
                         aria-hidden="true" className="h-5 w-5 stroke-zinc-900 dark:hidden">
                     <path d="M12.5 10a2.5 2.5 0 1 1-5 0 2.5 2.5 0 0 1 5 0Z"></path>
-                    <path stroke-linecap="round"
+                    <path strokeLinecap="round"
                         d="M10 5.5v-1M13.182 6.818l.707-.707M14.5 10h1M13.182 13.182l.707.707M10 15.5v-1M6.11 13.889l.708-.707M4.5 10h1M6.11 6.111l.708.707">
                     </path>
                 </svg><svg viewBox="0 0 20 20" fill="none" aria-hidden="true"

@@ -115,8 +115,7 @@ function FooterArticle() {
 }
 
 function ContentResources() {
-    return <>
-        <div className="my-16 xl:max-w-none">
+    return <div className="my-16 xl:max-w-none">
             <h2 className="scroll-mt-24" id="resources"><a
                 className="group text-inherit no-underline hover:text-inherit"
                 href="#resources">Resources</a></h2>
@@ -414,8 +413,7 @@ function ContentResources() {
                     </div>
                 </div>
             </div>
-        </div>
-    </>;
+        </div>;
 }
 
 function ContentGuides() {
@@ -615,7 +613,7 @@ function Header() {
 function LeftSideBar() {
     return (
         <nav className="hidden lg:mt-10 lg:block">
-            <ul role="list">
+            <ul>
                 {liTop("API", "/")}
                 {liTop("Documentation", "#")}
                 {liTop("Support", "#")}
@@ -626,11 +624,11 @@ function LeftSideBar() {
                         </div>
                         <div className="absolute inset-y-0 left-2 w-px bg-zinc-900/10 dark:bg-white/5"></div>
                         <div className="absolute left-2 h-6 w-px bg-emerald-500" style={{ top: '4px', opacity: 1 }}></div>
-                        <ul role="list" className="border-l border-transparent">
+                        <ul className="border-l border-transparent">
                             <li className="relative"><a aria-current="page"
                                 className="flex justify-between gap-2 py-1 pr-3 text-sm transition pl-4 text-zinc-900 dark:text-white"
                                 href="/"><span className="truncate">Introduction</span></a>
-                                <ul role="list" style={{ opacity: 1 }}>
+                                <ul style={{ opacity: 1 }}>
                                     <li><a className="flex justify-between gap-2 py-1 pr-3 text-sm transition pl-7 text-zinc-600 hover:text-zinc-900 dark:text-zinc-400 dark:hover:text-white"
                                         href="/#guides"><span className="truncate">Guides</span></a></li>
                                     <li><a className="flex justify-between gap-2 py-1 pr-3 text-sm transition pl-7 text-zinc-600 hover:text-zinc-900 dark:text-zinc-400 dark:hover:text-white"
@@ -650,7 +648,7 @@ function LeftSideBar() {
                     <h2 className="text-xs font-semibold text-zinc-900 dark:text-white">Resources</h2>
                     <div className="relative mt-3 pl-2">
                         <div className="absolute inset-y-0 left-2 w-px bg-zinc-900/10 dark:bg-white/5"></div>
-                        <ul role="list" className="border-l border-transparent">
+                        <ul className="border-l border-transparent">
                             {liLeftSideBar("Contacts", "/contacts")}
                             {liLeftSideBar("Conversations", "/conversations")}
                             {liLeftSideBar("Messages", "/messages")}
@@ -755,7 +753,7 @@ function DarkLightButton() {
 
 function NavLink() {
     return <nav className="hidden md:block">
-        <ul role="list" className="flex items-center gap-8">
+        <ul className="flex items-center gap-8">
             {liNavLink("API", "/")}
             {liNavLink("Documentation", "#")}
             {liNavLink("Support", "#")}

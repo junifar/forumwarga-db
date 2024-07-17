@@ -21,8 +21,7 @@ function ContentPage() {
 }
 
 function Footer() {
-    return <>
-        <footer className="mx-auto w-full max-w-2xl space-y-10 pb-16 lg:max-w-5xl">
+    return <footer className="mx-auto w-full max-w-2xl space-y-10 pb-16 lg:max-w-5xl">
             <div className="flex">
                 <div className="ml-auto flex flex-col items-end gap-3">
                     <Link
@@ -74,8 +73,7 @@ function Footer() {
                     </Link>
                 </div>
             </div>
-        </footer>
-    </>;
+        </footer>;
 }
 
 function Main() {
